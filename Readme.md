@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/GridCellsCreepingLine/Form1.cs) (VB: [Form1.vb](./VB/GridCellsCreepingLine/Form1.vb))
+<!-- default file list end -->
 # GridView - Text automatically scrolls horizontally when it doesn't fit into cell bounds 
 
 
